@@ -2,6 +2,7 @@
 
 - We can use if/else statements
 - We can also use the conditional ternary operators
+- switch case can also be used
 
 ### To run this project:
 
